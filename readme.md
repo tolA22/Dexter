@@ -1,5 +1,7 @@
 ### Running this code
 
+#### important -- visit http://localhost:8000/docs# to run commands
+
 #### Install fast api
 
 "pip install "fastapi[standard]""
