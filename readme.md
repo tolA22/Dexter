@@ -39,3 +39,5 @@ Proper responses
 Proper error messages
 Writing unit tests
 User authentication
+
+other things in Ctr + F ( TODO)
