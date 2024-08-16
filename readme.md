@@ -3,6 +3,7 @@
 #### Install fast api
 
 "pip install "fastapi[standard]""
+extra requirements in requirement.txt file
 
 #### Run migrations
 
@@ -33,5 +34,8 @@ model between user and chatroom
 
 ### Extras to be done
 
+User id specific queries
+Proper responses
+Proper error messages
 Writing unit tests
 User authentication
